@@ -1,0 +1,43 @@
+name: fusionado
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - biopython
+  - numpy
+  - pandas
+  - matplotlib
+  - entrez-direct
+  - ipython
+  - ipykernel
+  - jupyter_client
+  - jupyter_core
+  - pip
+  - readline
+  - tk
+  - tzdata
+  - zlib
+  - openssl
+  - libffi
+  - cffi
+  - setuptools
+  - wheel
+  - requests
+  - urllib3
+  - typing_extensions
+  - six
+  - pyzmq
+  - psutil
+  - matplotlib-inline
+  - pygments
+  - traitlets
+  - prompt-toolkit
+  - nest-asyncio
+  - tornado
+  - packaging
+  - python-dateutil
+  - pytz
+  - zeromq
+  - ca-certificates
